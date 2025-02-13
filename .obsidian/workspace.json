@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "352bd21abef1bb09",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e4630429a5e4898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94112dd3ad172ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SchemaGuardian/Sprint Planning Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint Planning Notes"
+            }
+          },
+          {
+            "id": "47c43958c5b65b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part1-Intro/1.Markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.Markdown"
+            }
+          },
+          {
+            "id": "2ebd5c2586cca474",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7399f6ca6e48fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "855c741464e23233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c83e639eee9bb4ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01852af63d479ecd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tagsAreCool",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b63bdb54c2cc958",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfd02127a1581025",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b50df5d20ffcbcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfb5575ff4f32c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part1-Intro/1.Markdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.Markdown"
+            }
+          },
+          {
+            "id": "555d0c9bc04536cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SchemaGuardian/SG-Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SG-Kanban"
+            }
+          },
+          {
+            "id": "0016af692806c7db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "829721f2ced0ddf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documents.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Documents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "47c43958c5b65b2f",
+  "lastOpenFiles": [
+    "Part1-Intro/3.Plugins.md",
+    "Part1-Intro/Drawings/Kanban.md",
+    "Part1-Intro/Drawings/Untitled Kanban 1.md",
+    "SchemaGuardian/SG-Kanban.md",
+    "4.Kanban.md",
+    "Part2-Advanced/DataView-Docs/MeetingNotes.md",
+    "Welcome To Obsidian.md",
+    "SchemaGuardian/Sprint Planning Notes.md",
+    "Untitled 1",
+    "Untitled",
+    "SchemaGuardian/Deployment and Devops.md",
+    "Part1-Intro/1.Markdown.md",
+    "Presentation.md",
+    "SchemaGuardian/Kanban-Notes/SG-106.md",
+    "SchemaGuardian/Kanban-Notes/SG-104.md",
+    "SchemaGuardian/Kanban-Notes/SG-103.md",
+    "SchemaGuardian/Kanban-Notes/SG-102.md",
+    "SchemaGuardian/Kanban-Notes/SG-101.md",
+    "Part2-Advanced/2. Data View.md",
+    "Part2-Advanced/1. Templates.md",
+    "Part2-Advanced/DataView-Docs/TaskList.md",
+    "Part2-Advanced/DataView-Docs/BookNotes.md",
+    "Part1-Intro/2.Obsidian.md",
+    "Part2-Advanced/Templates/Simple Journal.md",
+    "Part2-Advanced/Templates/Untitled.md",
+    "Part2-Advanced/Templates/Untitled 1.md",
+    "Part2-Advanced/Templates",
+    "Part1-Intro/Drawings/Drawing 2025-02-13 12.00.59.excalidraw.md",
+    "Part1-Intro/4.Kanban.md",
+    "SchemaGuardian/Kanban-Notes",
+    "Kanban",
+    "Part1-Intro/Drawings",
+    "Part2-Advanced/DataView-Docs",
+    "Part3-Dungeon&Dragons",
+    "Part2-Advanced",
+    "Slides/Untitled"
+  ]
+}
