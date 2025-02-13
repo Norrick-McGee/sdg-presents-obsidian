@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README.md"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c43958c5b65b2f",
+  "active": "c83e639eee9bb4ec",
   "lastOpenFiles": [
     "Part1-Intro/1.Markdown.md",
     "Part1-Intro/3.Plugins.md",
@@ -204,7 +204,7 @@
     "SchemaGuardian/SG-Kanban.md",
     "4.Kanban.md",
     "Part2-Advanced/DataView-Docs/MeetingNotes.md",
-    "README.md.md",
+    "README.md",
     "SchemaGuardian/Sprint Planning Notes.md",
     "Untitled 1",
     "Untitled",
