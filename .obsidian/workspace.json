@@ -27,22 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
+                "file": "Part1-Intro/0.Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ThisNoteIsBlue"
-            }
-          },
-          {
-            "id": "2ebd5c2586cca474",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0.Intro"
             }
           }
         ],
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
+                "file": "Part1-Intro/0.Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ThisNoteIsBlue"
+              "title": "Backlinks for 0.Intro"
             }
           },
           {
@@ -179,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +187,8 @@
   },
   "active": "47c43958c5b65b2f",
   "lastOpenFiles": [
-    "Part1-Intro/3.Plugins.md",
     "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
+    "Part1-Intro/3.Plugins.md",
     "Part1-Intro/Colorful-files",
     "Part1-Intro/2.Obsidian.md",
     "Part1-Intro/1.Markdown.md",
