@@ -1,0 +1,17 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "7lTyoTEGLJ0KYKUTycfR0",
+      "name": "blue",
+      "value": "#596ea1"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
+      "color": "7lTyoTEGLJ0KYKUTycfR0"
+    }
+  ]
+}

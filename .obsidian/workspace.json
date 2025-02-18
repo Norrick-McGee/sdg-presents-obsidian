@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ThisNoteIsBlue"
             }
           },
           {
@@ -65,8 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for ThisNoteIsBlue"
             }
           },
           {
@@ -195,16 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c83e639eee9bb4ec",
+  "active": "47c43958c5b65b2f",
   "lastOpenFiles": [
-    "Part1-Intro/1.Markdown.md",
     "Part1-Intro/3.Plugins.md",
+    "Part1-Intro/Colorful-files/ThisNoteIsBlue.md",
+    "Part1-Intro/Colorful-files",
+    "Part1-Intro/2.Obsidian.md",
+    "Part1-Intro/1.Markdown.md",
+    "Part1-Intro/0.Intro.md",
+    "README.md",
     "Part1-Intro/Drawings/Kanban.md",
     "Part1-Intro/Drawings/Untitled Kanban 1.md",
     "SchemaGuardian/SG-Kanban.md",
     "4.Kanban.md",
     "Part2-Advanced/DataView-Docs/MeetingNotes.md",
-    "README.md",
     "SchemaGuardian/Sprint Planning Notes.md",
     "Untitled 1",
     "Untitled",
@@ -219,19 +222,15 @@
     "Part2-Advanced/1. Templates.md",
     "Part2-Advanced/DataView-Docs/TaskList.md",
     "Part2-Advanced/DataView-Docs/BookNotes.md",
-    "Part1-Intro/2.Obsidian.md",
     "Part2-Advanced/Templates/Simple Journal.md",
     "Part2-Advanced/Templates/Untitled.md",
     "Part2-Advanced/Templates/Untitled 1.md",
     "Part2-Advanced/Templates",
-    "Part1-Intro/Drawings/Drawing 2025-02-13 12.00.59.excalidraw.md",
-    "Part1-Intro/4.Kanban.md",
     "SchemaGuardian/Kanban-Notes",
     "Kanban",
     "Part1-Intro/Drawings",
     "Part2-Advanced/DataView-Docs",
     "Part3-Dungeon&Dragons",
-    "Part2-Advanced",
-    "Slides/Untitled"
+    "Part2-Advanced"
   ]
 }
